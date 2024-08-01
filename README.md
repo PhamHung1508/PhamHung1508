@@ -1,16 +1,27 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**PhamHung1508/PhamHung1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Duc Hung,
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** Pham Duc Hung
+- **Current Role:** Student of Electronics - Telecommunications, University of Science, VNU-HCM
+- **Passions:** Embedded programming, software development, electronics
+- **Skills:** STM32, C programming, Git, ...
+
+## Current Projects
+
+- **STM32F411 Project:** Working with the STM32F411VE microcontroller, ...
+
+## Experience
+
+- **Microcontroller Programming:** Developing projects with the STM32F411, ...
+
+## Contact
+
+- **Email:** duchung15082003@gmail.com
+- **LinkedIn:** 
+
+Feel free to reach out if you have any questions or want to discuss projects!
+
+Thanks for visiting my GitHub profile!
